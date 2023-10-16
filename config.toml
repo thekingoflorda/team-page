@@ -49,4 +49,4 @@ date = [":git" ,"date", "publishDate", "lastmod"]
     invertSectionColors = false
 
     [params.meta]
-        keywords = ""
+        keywords = "lemmy, world, team, contact"
