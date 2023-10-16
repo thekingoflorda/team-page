@@ -10,7 +10,7 @@ header_logo: images/logo.png
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: Lemmy.World<br>
-header_subheadline: Support Center & Additional Information 
+header_subheadline: Meet the Team
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
