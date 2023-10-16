@@ -1,0 +1,26 @@
+{{/* Empty dict for change storage where key is the github link & value is a slice with changed pages */}}
+{{ $latest_changes := dict  }}
+
+{{/* Slice for storing github links with date because dict iteration is not sorted */}}
+{{ $latest_changes_sorted := slice }}
+
+{{/* Iterate over last 10 changed pages in reverse (latest is first) */}}
+{{ range first 15 .Site.AllPages.ByLastmod.Reverse }}
+
+  {{/* Create some variables for better readability of this code */}}
+  {{ $date := .Lastmod.Format "2006-01-02" }}
+
+
+  {{/* If key not in dict, create empty slice for key */}}
+  {{ $curr_slice := default slice (index $latest_changes) }}
+  {{ if eq (len $curr_slice) 0 }}
+    {{ $latest_changes_sorted = $latest_changes_sorted | append $date }}
+  {{ end }}
+{{ end }}
+
+{{ range $change_link := $latest_changes_sorted }}
+{{ markdownify $change_link }}:
+  {{- range index $latest_changes}}
+  {{- end -}}
+{{ end }}
+
