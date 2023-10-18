@@ -5,34 +5,32 @@ weight: 3
 
 {{< mermaid >}}
 
+%%{ init : {'theme': 'neutral', "flowchart" : { "curve" : "stepAfter" }}}%%
+
 flowchart TD
 subgraph Administration
 Ruud
 end
 
-Administration -->
+Administration ---
 Tech_Group & Site_Group
 
 subgraph Site_Group
-AvaddonLFC --> US_Team
-Antik --> EU_Team
 
-subgraph US_Team
-MichelleG & Xylinna
-end
-subgraph EU_Team
-Quinten & Thekingoflorda
+AvaddonLFC & Antik --- Mod_Team
+
+subgraph Mod_Team
+MichelleG & Xylinna & Quinten & Thekingoflorda
 end
 
-US_Team & EU_Team --> Community_Team
+Mod_Team --- Community_Team
 subgraph Community_Team
 MrCenny
 end
 end
 
-
 subgraph Tech_Group
-Jelloeater --> Software_Team & Infra_Team
+Jelloeater --- Software_Team & Infra_Team
 subgraph Software_Team
 Rooki
 Poopsmith
@@ -45,4 +43,5 @@ Ocelot
 Snoltz
 end
 end
+
 {{< /mermaid >}}

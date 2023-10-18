@@ -19,6 +19,8 @@ weight: 2
 
 🧑 [@Quinten](https://lemmy.world/u/Quinten)
 
+🧑 [@Thekingoflorda](https://lemmy.world/u/Thekingoflorda)
+
 ---
 
 ### 💽 Tech Group
@@ -26,8 +28,6 @@ weight: 2
 🧑 [@Jelloeater](https://lemmy.world/u/jelloeater85)
 
 🧑 [@Rooki](https://lemmy.world/u/Rooki)
-
-🧑 [@Thekingoflorda](https://lemmy.world/u/Thekingoflorda)
 
 🧑 [@MrCenny](https://lemmy.world/u/MrCenny)
 
