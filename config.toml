@@ -32,14 +32,14 @@ date = [":git" ,"date", "publishDate", "lastmod"]
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Lemmy World Terms of Service & Related Guidelines"
+    title =  "Lemmy World Meet the Team"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Lemmy World Terms of Service & Related Guidelines"
+    description = "Lemmy World Meet the Team"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "©2023 LemmyWorld <a href='https://github.com/LemmyWorld/support-page/commits/main'>Page History</a>"
+    copyright = "©2023 LemmyWorld <a href='https://github.com/LemmyWorld/team-page/commits/main'>Page History</a>"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
