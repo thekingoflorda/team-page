@@ -1,5 +1,5 @@
 ---
-title: "Organization Structure"
+ title: "Org Chart"
 weight: 2
 ---
 

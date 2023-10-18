@@ -3,6 +3,8 @@ title: "Meet the team"
 weight: 1
 ---
 
+This instance has the following administrators:
+
 🧑 [@Ruud](https://lemmy.world/u/ruud)
 
 🧑 [@Antik](https://lemmy.world/u/antik)
@@ -14,6 +16,8 @@ weight: 1
 🧑 [@Xylinna](https://lemmy.world/u/xylinna)
 
 🧑 [@Quinten](https://lemmy.world/u/Quinten)
+
+This instance is kept up and running by the following heroes:
 
 🧑 [@Jelloeater](https://lemmy.world/u/jelloeater85)
 
@@ -34,3 +38,6 @@ weight: 1
 🧑 Ocelot
 
 🧑 Snoltz
+
+A special thanks to them for their countless helpful efforts
+----
