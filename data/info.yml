@@ -1,0 +1,9 @@
+title : "Info"
+content: |
+  x
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "One"
+    content : "aa"
+    style : "style2 major "
