@@ -3,30 +3,83 @@ title: "Meet the team"
 weight: 1
 ---
 
----
+## Staff
 
-Staff
 
-**This instance has the following administrators:**
+🧑 [@Ruud](https://lemmy.world/u/ruud)
 
-- [@Ruud](https://lemmy.world/u/ruud) (CET/CEST)
-- [@Antik](https://lemmy.world/u/antik) (CET/CEST)
-- [@MichelleG](https://lemmy.world/u/MichelleG) (CT)
-- [@AvaddonLFC](https://lemmy.world/u/clueless_stoner) (EST)
-- [@Xylinna](https://lemmy.world/u/xylinna) (EST)
-- [@Quinten](https://lemmy.world/u/Quinten) (CET/CEST)
+🧑 [@Antik](https://lemmy.world/u/antik)
 
-**This instance is kept up and running by the following heroes:**
+🧑 [@MichelleG](https://lemmy.world/u/MichelleG)
 
-- [@Jelloeater](https://lemmy.world/u/jelloeater85) (EST)
-- [@TragicNotCute](https://lemmy.world/u/TragicNotCute) (CT)
-- @ld_50
-- [@Ruud](https://lemmy.world/u/ruud) and [@Antik](https://lemmy.world/u/antik), who are also administrators of the site.
+🧑 [@AvaddonLFC](https://lemmy.world/u/clueless_stoner)
 
-**Operations helpers:**
+🧑 [@Xylinna](https://lemmy.world/u/xylinna)
 
-- [@Rooki](https://lemmy.world/u/Rooki) (CET/CEST)
+🧑 [@Quinten](https://lemmy.world/u/Quinten)
 
-A special thanks to them for their countless helpful efforts.
+🧑 [@Jelloeater](https://lemmy.world/u/jelloeater85)
 
----
+🧑 [@Rooki](https://lemmy.world/u/Rooki)
+
+🧑 [@Thekingoflorda](https://lemmy.world/u/Thekingoflorda)
+
+🧑 [@MrCenny](https://lemmy.world/u/MrCenny)
+
+🧑 [@poopsmith](https://lemmy.world/u/poopsmith)
+
+🧑 [@Fury](https://lemmy.world/u/fury)
+
+🧑 [@Travis](https://lemmy.world/u/tjkessler)
+
+🧑 [@CountVon](https://sh.itjust.works/u/CountVon)
+
+🧑 Ocelot
+
+🧑 Snoltz
+
+## Organization Structure
+
+{{< mermaid >}}
+
+flowchart TD
+subgraph Administration
+Ruud
+end
+
+Administration -->
+Tech_Group & Site_Group
+
+subgraph Site_Group
+AvaddonLFC --> US_Team
+Antik --> EU_Team
+
+subgraph US_Team
+MichelleG & Xylinna
+end
+subgraph EU_Team
+Quinten & Thekingoflorda
+end
+
+US_Team & EU_Team --> Community_Team
+subgraph Community_Team
+MrCenny
+end
+end
+
+
+subgraph Tech_Group
+Jelloeater --> Software_Team & Infra_Team
+subgraph Software_Team
+Rooki
+Poopsmith
+end
+subgraph Infra_Team
+Fury
+Travis
+CountVonn
+Ocelot
+Snoltz
+end
+end
+{{< /mermaid >}}
