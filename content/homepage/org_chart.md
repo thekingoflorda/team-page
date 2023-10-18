@@ -1,6 +1,6 @@
 ---
- title: "Org Chart"
-weight: 2
+ title: "🗺 Org Chart"
+weight: 3
 ---
 
 {{< mermaid >}}

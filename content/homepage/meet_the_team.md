@@ -1,13 +1,9 @@
 ---
-title: "Meet the team"
-weight: 1
+title: "👋 Meet the team"
+weight: 2
 ---
 
-> Test Quote Please Ignore  - October 10th, 2023
-
-Lemmy World is made up of a diverse group of individuals who are all passionate about not only seeing our site grow, but also see the future in a more open and free social media platform.
-
-----
+---
 
 ### 💼 Admin Group
 
@@ -23,7 +19,7 @@ Lemmy World is made up of a diverse group of individuals who are all passionate 
 
 🧑 [@Quinten](https://lemmy.world/u/Quinten)
 
-----
+---
 
 ### 💽 Tech Group
 
@@ -47,6 +43,4 @@ Lemmy World is made up of a diverse group of individuals who are all passionate 
 
 🧑 Snoltz
 
-💓 A special thanks to them for their countless helpful efforts 💓
-
-----
+## 💓 A special thanks to them for their countless helpful efforts 💓
