@@ -25,7 +25,7 @@ end
 
 Mod_Team --- Community_Team
 subgraph Community_Team
-MrCenny
+?
 end
 end
 
@@ -39,8 +39,6 @@ subgraph Infra_Team
 Fury
 Travis
 CountVonn
-Ocelot
-Snoltz
 end
 end
 

@@ -29,8 +29,6 @@ weight: 2
 
 🧑 [@Rooki](https://lemmy.world/u/Rooki)
 
-🧑 [@MrCenny](https://lemmy.world/u/MrCenny)
-
 🧑 [@poopsmith](https://lemmy.world/u/poopsmith)
 
 🧑 [@Fury](https://lemmy.world/u/fury)
@@ -38,9 +36,5 @@ weight: 2
 🧑 [@Travis](https://lemmy.world/u/tjkessler)
 
 🧑 [@CountVon](https://sh.itjust.works/u/CountVon)
-
-🧑 Ocelot
-
-🧑 Snoltz
 
 ## 💓 A special thanks to them for their countless helpful efforts 💓
