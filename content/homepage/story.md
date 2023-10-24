@@ -1,6 +1,7 @@
 ---
 title: "📖 Our Story"
 weight: 1
+header_menu: true
 ---
 
 > Test Quote Please Ignore  - October 10th, 2023

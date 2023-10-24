@@ -1,5 +1,5 @@
 ---
- title: "🗺 Org Chart"
+title: "🗺 Org Chart"
 weight: 3
 ---
 
