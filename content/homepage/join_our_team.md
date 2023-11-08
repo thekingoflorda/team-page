@@ -6,6 +6,23 @@ header_menu: true
 
 ---
 
+## Junior Cloud Engineer 💾
+
+We ARE  looking for junior admins for this role. You will learn a modern cloud infra stack, including Terraform, DataDog, CloudFlare and many others!
+
+Volunteers will assist our existing systems team with monitoring, maintenance and automation development tasks. They will report to our head of infrastructure.
+
+Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work comes first.
+
+Applicants must be okay with providing their CV, LinkedIn profile; along with sitting for a video interview.
+
+We are an international team that works from both North America EST time (-4) and Europe CEST (+2) so we would ask that candidates be flexible with their availability.
+
+
+[👉👉 APPLY HERE 👈👈](https://forms.gle/STxKfoHDBN7zn8Xb6)
+
+---
+
 ## Infrastructure 💾
 
 Lemmy.World is looking for new engineers to help with our growing community.
