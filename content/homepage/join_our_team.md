@@ -12,26 +12,23 @@ We ARE  looking for junior admins for this role. You will learn a modern cloud i
 
 Volunteers will assist our existing systems team with monitoring, maintenance and automation development tasks. They will report to our head of infrastructure.
 
-Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work comes first.
+Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work come first.
 
 Applicants must be okay with providing their CV, LinkedIn profile; along with sitting for a video interview.
 
 We are an international team that works from both North America EST time (-4) and Europe CEST (+2) so we would ask that candidates be flexible with their availability.
 
-
 [👉👉 APPLY HERE 👈👈](https://forms.gle/STxKfoHDBN7zn8Xb6)
 
 ---
 
-## Infrastructure 💾
-
-Lemmy.World is looking for new engineers to help with our growing community.
+## Senior Cloud Engineer 💾
 
 Volunteers will assist our existing systems team with monitoring, maintenance and automation tasks. They will report to our head of infrastructure.
 
-We’re ideally looking for chill folks that want to give back to their community and work on our back-end infrastructure.
+We’re ideally looking for chill folks who want to give back to their community and work on our back-end infrastructure.
 
-Must have 4+ years of professional experience working in systems administration. We are not looking for junior admins at this time. Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work comes first.
+Must have 4+ years of professional experience working in systems administration. We are not looking for junior admins at this time. Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work come first.
 
 Applicants must be okay with providing their CV and/or LinkedIn profile AND sitting for a video interview. This is due to the sensitivity of the infrastructure you will have access to.
 
@@ -45,13 +42,13 @@ You will be asked to participate in an on-call pool. Please keep in mind that th
 
 ---
 
-## Software Development 🖥
+## Software Developer 🖥
 
-Lemmy.World is looking for developers to help with our growing platform and infrastructure.
+We are looking for developers to help with our growing platform and infrastructure.
 
-Volunteers will collaborate with other developers on our staff to both create new tooling / features and help improve existing ones.
+Volunteers will collaborate with other developers on our staff to both create new tooling/features and help improve existing ones.
 
-We’re ideally looking for chill folks that want to give back to their community and work on both Lemmy Software itself (to contribute PRs to push back to LemmyNet) and to help with our own internal tooling.
+We’re ideally looking for chill folks who want to give back to their community and work on both Lemmy Software itself (to contribute PRs) and to help with our internal tooling.
 
 Must have 2+ years of experience working in software development.
 
@@ -59,7 +56,7 @@ Junior developers, feel free to apply 😄
 
 While we are mainly a Python team, if you are familiar with Rust, that would be a great plus!
 
-Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work comes first.
+Please keep in mind that, while this is a volunteer gig, we would ask you to be able to commit to at least 5-10 hours a week. We also understand this is a hobby and that family and work come first.
 
 Applicants must be okay with providing their CV AND sitting for a video interview.
 
