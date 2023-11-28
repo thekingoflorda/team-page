@@ -12,7 +12,10 @@ subgraph Site_Group
 Antik --- Mod_Team
 
 subgraph Mod_Team
-MichelleG & Xylinna & Quinten & Thekingoflorda
+MichelleG
+Xylinna
+Quinten
+Thekingoflorda
 end
 
 Mod_Team --- Community_Team
@@ -22,7 +25,10 @@ end
 end
 
 subgraph Tech_Group
-
+subgraph Tech_Lead
+Jelloeater
+end
+Tech_Lead --- Software_Team & Infra_Team
 subgraph Software_Team
 subgraph Dev_Lead
 Rooki
@@ -31,22 +37,20 @@ Poopsmith
 Travis
 Keith
 Jasper
-Justin
+Justin_K
 Carson
+Brandon
 end
 subgraph Infra_Team
-subgraph Infra_Lead
-Jelloeater
-end
 subgraph Sr_Infra
 Fury
 CountVonn
 end
 Nicholas
 Jon
-Chris
 Ben
 Eli
+Chris
 end
 end
 ```
