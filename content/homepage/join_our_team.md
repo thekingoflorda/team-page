@@ -6,9 +6,11 @@ header_menu: true
 
 ---
 
+> **NOTE: We are still looking for software developers, but our infra team is full right now. Please feel free to still apply, but we won't be reviewing any new applicants until we have capacity. Thanks! 🤓**
+
 ## Junior Cloud Engineer 💾
 
-We ARE  looking for junior admins for this role. You will learn a modern cloud infra stack, including Terraform, DataDog, CloudFlare and many others!
+You will learn a modern cloud infra stack, including Terraform, DataDog, CloudFlare and many others!
 
 Volunteers will assist our existing systems team with monitoring, maintenance and automation development tasks. They will report to our head of infrastructure.
 
