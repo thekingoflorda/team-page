@@ -5,36 +5,12 @@ weight: 2
 
 ---
 
-### 💼 Admin Group
+#### 💼 Admin Group
 
-🧑 [@Ruud](https://lemmy.world/u/ruud)
+Headed up by [@Ruud](https://lemmy.world/u/ruud) and [@Antik](https://lemmy.world/u/antik). This group leads LW on both organizational policy and community building. They lead a wonderful team of humans who share the same passion.
 
-🧑 [@Antik](https://lemmy.world/u/antik)
+#### 🖥 Tech Group
 
-🧑 [@MichelleG](https://lemmy.world/u/MichelleG)
+Run by [@Jelloeater](https://lemmy.world/u/jelloeater85) and [@Rooki](https://lemmy.world/u/Rooki). The other "half" of LW. Responsible for growing and maintaining supporting infrastructure as well as developing new and related software.
 
-🧑 [@AvaddonLFC](https://lemmy.world/u/clueless_stoner)
-
-🧑 [@Xylinna](https://lemmy.world/u/xylinna)
-
-🧑 [@Quinten](https://lemmy.world/u/Quinten)
-
-🧑 [@Thekingoflorda](https://lemmy.world/u/Thekingoflorda)
-
----
-
-### 💽 Tech Group
-
-🧑 [@Jelloeater](https://lemmy.world/u/jelloeater85)
-
-🧑 [@Rooki](https://lemmy.world/u/Rooki)
-
-🧑 [@poopsmith](https://lemmy.world/u/poopsmith)
-
-🧑 [@Fury](https://lemmy.world/u/fury)
-
-🧑 [@Travis](https://lemmy.world/u/tjkessler)
-
-🧑 [@CountVon](https://sh.itjust.works/u/CountVon)
-
-## 💓 A special thanks to them for their countless helpful efforts 💓
+## 💓 A special thanks to the WHOLE LW team for their countless helpful efforts 💓
