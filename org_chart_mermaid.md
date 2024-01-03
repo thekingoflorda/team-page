@@ -14,13 +14,17 @@ Antik --- Mod_Team
 subgraph Mod_Team
 MichelleG
 Xylinna
-Quinten
 Thekingoflorda
 end
 
 Mod_Team --- Community_Team
 subgraph Community_Team
-?
+Tenthrow
+Ickplant
+Ohmyiv
+TheGiantKorean
+Serinus
+JordanLund
 end
 end
 
